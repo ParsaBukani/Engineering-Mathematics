@@ -18,8 +18,8 @@ It also includes a research-based multimedia project created around the **Fast F
 
 | Project | Title                                                               | Link     |
 |---------|---------------------------------------------------------------------|----------|
-| **1**   | Fourier Series & 2D Fourier Transform — Implementation & Analysis   | [View](./CA) |
-| **2**   | Fast Fourier Transform (FFT) and Its Application in Image Compression | [View](./Content) |
+| **1**   | Fourier Series & 2D Fourier Transform — Implementation & Analysis   | [View](https://github.com/ParsaBukani/Engineering-Mathematics/tree/main/Fourier%20Analysis%20-%20Series%20%26%20Transforms) |
+| **2**   | Fast Fourier Transform (FFT) and Its Application in Image Compression | [View](https://github.com/ParsaBukani/Engineering-Mathematics/tree/main/FFT%20and%20Image%20Compression) |
 
 
 ## License
