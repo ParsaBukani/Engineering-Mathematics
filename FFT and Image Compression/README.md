@@ -32,11 +32,6 @@ It bridges theoretical aspects of Fourier analysis with practical implementation
 -   **Practical Insight** — FFT-based compression provides a balance of efficiency and fidelity, useful in applications like storage, transmission, and multimedia systems.
     
 
-## Contributors
-
--   **Parsa Bukani**
--   **Parsa Saeednia**
--   **Mohammadreza Pirhadi**
     
 
 ## License
